@@ -4,7 +4,7 @@ const reviews = [
     name: "Pranay Gupta",
     job: "Software Engineer",
     image: "https://i.pravatar.cc/300?img=1",
-    text: "MAIN VERSION: This line is from MAIN branch only.",
+    text: "Final merged text: The team is highly skilled, professional, and delivers outstanding results."
   },
   {
     id: 2,  
