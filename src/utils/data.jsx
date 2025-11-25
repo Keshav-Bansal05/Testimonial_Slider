@@ -4,7 +4,7 @@ const reviews = [
     name: "Pranay Gupta",
     job: "Software Engineer",
     image: "https://i.pravatar.cc/300?img=1",
-    text: "I have had the pleasure of working with this team on several projects, and I am consistently impressed with their technical expertise and ability to deliver quality solutions on time and within budget. They are a true partner and an asset to any project.",
+    text: "Branch 1 update: This team is highly skilled and professional."
   },
   {
     id: 2,  
